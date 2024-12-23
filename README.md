@@ -67,9 +67,8 @@ Dataset yang digunakan terdiri atas gambar rumah adat yang dibagi ke dalam lima 
 ## Hasil Evaluasi Model
 ## CNN Custom
 Classification Report
-accuracy                               1.00      1800
-macro avg          1.00      1.00      1.00      1800
-weighted avg       1.00      1.00      1.00      1800
+![image](https://github.com/user-attachments/assets/3f963be8-540c-4271-88ed-bfe7baa43959)
+
 
 Confusion Matrix menunjukkan distribusi prediksi model untuk masing-masing kelas:
 ![image](https://github.com/user-attachments/assets/1ba43021-5cd6-4fc4-8970-3913d832a4d0)
@@ -80,9 +79,7 @@ Learning Curve
 
 ## ResNet50
 Classification Report
-    accuracy                           1.00      2400
-   macro avg       1.00      1.00      1.00      2400
-weighted avg       1.00      1.00      1.00      2400
+![image](https://github.com/user-attachments/assets/242e27ff-63ce-4720-84cf-f994b97bd23f)
 
 Confusion Matrix menunjukkan distribusi prediksi model untuk masing-masing kelas:
 ![image](https://github.com/user-attachments/assets/98673649-c113-45eb-901b-133d81551e36)
