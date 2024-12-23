@@ -67,8 +67,8 @@ Dataset yang digunakan terdiri atas gambar rumah adat yang dibagi ke dalam lima 
 ## Hasil Evaluasi Model
 ## CNN Custom
 Classification Report
-    accuracy                           1.00      1800
-   macro avg       1.00      1.00      1.00      1800
+accuracy                               1.00      1800
+macro avg          1.00      1.00      1.00      1800
 weighted avg       1.00      1.00      1.00      1800
 
 Confusion Matrix menunjukkan distribusi prediksi model untuk masing-masing kelas:
