@@ -65,19 +65,32 @@ Dataset yang digunakan terdiri atas gambar rumah adat yang dibagi ke dalam lima 
 3. Optimizer: Adam dengan mixed precision untuk efisiensi.
 
 ## Hasil Evaluasi Model
-## ResNet50
-Classification Report
-
-Confusion Matrix menunjukkan distribusi prediksi model untuk masing-masing kelas:
-
-Learning Curve
-
 ## CNN Custom
 Classification Report
+    accuracy                           1.00      1800
+   macro avg       1.00      1.00      1.00      1800
+weighted avg       1.00      1.00      1.00      1800
 
 Confusion Matrix menunjukkan distribusi prediksi model untuk masing-masing kelas:
+![image](https://github.com/user-attachments/assets/1ba43021-5cd6-4fc4-8970-3913d832a4d0)
 
 Learning Curve
+![image](https://github.com/user-attachments/assets/fd79ad7b-a8c0-4b99-9d98-70e256241e89)
+
+
+## ResNet50
+Classification Report
+    accuracy                           1.00      2400
+   macro avg       1.00      1.00      1.00      2400
+weighted avg       1.00      1.00      1.00      2400
+
+Confusion Matrix menunjukkan distribusi prediksi model untuk masing-masing kelas:
+![image](https://github.com/user-attachments/assets/98673649-c113-45eb-901b-133d81551e36)
+
+
+Learning Curve
+![image](https://github.com/user-attachments/assets/361154b1-b966-4461-90a8-149790e7fa4e)
+
 
 
 
